@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/first door.unity
+    guid: fed4cf8489b9c194d8f276df1d17ef9a
+  - enabled: 1
+    path: Assets/Scenes/VS first monster.unity
+    guid: 3275aac38b653d3449f61ddf35779753
+  - enabled: 1
+    path: Assets/Scenes/VS second monster.unity
+    guid: 5dc82f5211fd8e444a55495ddf215b4b
+  - enabled: 1
+    path: Assets/Scenes/VS third monster.unity
+    guid: 82f16149e7c473047b097ea3081579da
+  - enabled: 1
+    path: Assets/Scenes/VS fourth monster.unity
+    guid: 4131885625480a7418ac532e843d9171
+  - enabled: 1
+    path: Assets/Scenes/VS fifth monster.unity
+    guid: fafc58fde9df12a489977faa97be9311
+  - enabled: 1
+    path: Assets/Scenes/VS boss monster2.unity
+    guid: 8d4bd76bd0bac1a4997a91b353c68708
+  - enabled: 1
+    path: Assets/Scenes/VS boss monster.unity
+    guid: f4e3f1e3f3ef32441894ab9041c8d391
+  - enabled: 1
+    path: Assets/Scenes/second door.unity
+    guid: 35df9ccee297d9747b0ca49f51c82551
+  - enabled: 1
+    path: Assets/Scenes/third door.unity
+    guid: b280218be8972844ca6707df57fa8987
+  - enabled: 1
+    path: Assets/Scenes/fourth door.unity
+    guid: 8c4d99dfc4d5bf54fb592e1c960d758f
+  - enabled: 1
+    path: Assets/Scenes/fifth door.unity
+    guid: 5c4850af0faa2b94cba96fbae6d529c6
+  - enabled: 1
+    path: Assets/Scenes/boss door.unity
+    guid: a2814f69e4c77e94389c73d710b58991
+  - enabled: 1
+    path: Assets/Scenes/gameover.unity
+    guid: 1b65a45d5578b924f842e07496e79320
+  - enabled: 1
+    path: Assets/Scenes/gameclear.unity
+    guid: e7404ee486ee5404ab33ba67865e2b33
+  m_configObjects: {}
